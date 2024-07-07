@@ -1,7 +1,4 @@
-### 2. Image Encryption and Decryption Tool
-
-```markdown
-# Image Encryption Tool
+# Image Encryption and Decryption Tool
 
 This Python tool encrypts and decrypts images using pixel shuffling.
 

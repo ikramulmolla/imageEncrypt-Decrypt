@@ -1,4 +1,3 @@
-
 ### 2. Image Encryption and Decryption Tool
 
 ```markdown

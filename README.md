@@ -18,7 +18,7 @@ This Python tool encrypts and decrypts images using pixel shuffling.
    ```bash
    apt update
    pip install Pillow
-   git clone https://github.com/your_username/imageEncrypt-Decrypt.git
+   git clone https://github.com/ikramulmolla/imageEncrypt-Decrypt.git
    cd imageEncrypt-Decrypt
    python3 imageEncryption.py
    
